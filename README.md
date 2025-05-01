@@ -1,3 +1,3 @@
 # LLM Learning Notes
 ## Transformer
-https://github.com/cidkdXiao/my-LLM-Learning/blob/main/transformer/AnnotatedTransformer.ipynb
+AnnotatedTransformer.ipynb: Copy from https://colab.research.google.com/drive/1diArrXHFLPswqdbbkolnV9xgWCeVVUZO#scrollTo=9a429510
